@@ -91,9 +91,9 @@ function Footer() {
                         <div className="footer-apartments-header">
                         <span>Apartamenty</span>
                         </div>
-                        <div className="footer-apartments-zakopane">
+                        <div className="footer-apartments-krakow">
                             <img className="apartments-logo-zakopane" src={apartmentsLogo} alt="apartments-logo" />
-                            <Link to="/zakopane"><span>Zakopane</span></Link>
+                            <Link to="/krakow"><span>Kraków</span></Link>
                         </div>
                         <div className="footer-apartments-primosten">
                             <img className="apartments-logo-primosten" src={apartmentsLogo} alt="apartments-logo" />

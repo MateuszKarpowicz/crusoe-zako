@@ -69,7 +69,7 @@
     "submitButton": "Submit",
     "getDirectionsButton": "Drive",
     "mapLabel": "Drive to us",
-    "description": "ul. Piłsudskiego 11\n33-323 Kraków\nPolska"
+    "description": "ul. Mieczysława Karłowicza 12\nZakopane\nPolska"
   },
   "friends": {
     "title": "Our Friends"
@@ -93,7 +93,13 @@
     "feature5": "Preserved, historical elements, such as 19th-century brick and original plaster.",
     "feature6": "Styled, ornamental floor adding character.",
     "feature7": "Delicious breakfast at the Bon Jour Cava cafe, included in the price of stay."
-  }
+  },
+  "roomAdmin": {
+    "book" : "Book a Room"
+},
+  "Kontakt": "Contact",
+  "Media": "Media",
+  "Apartamenty": "Apartments"
 }
 
 

@@ -500,12 +500,16 @@ body {
     margin-right: 5px;
 }
 
+.footer-apartments-krakow span {
+    margin-right: 25px;
+}
+
 .footer-apartments-primosten:hover {
     transform: scale(1.1);
     filter: brightness(0);
 }
 
-.footer-apartments-zakopane:hover {
+.footer-apartments-krakow:hover {
     transform: scale(1.1);
     filter: brightness(0);
 }
@@ -597,8 +601,8 @@ body {
         justify-content: flex-end;
         width: 100%;
         margin: 0;
-        padding-left: 160px;
-        padding-right: 10px;
+        padding-left: 170px;
+        padding-right: 1px;
     }
 
 
@@ -607,10 +611,10 @@ body {
         position: relative;
         width: 80px;
         height: 20px;
-        font-size: 10px;
+        font-size: 9px;
         justify-content: center;
         transform: rotate(-49deg);
-        margin: auto;
+        margin: 0;
         z-index: 9999;
     }
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import sliderImage1 from '../assets/apartment/image1.webp';
+import sliderImage1 from '../assets/apartment/image8.webp';
 import sliderImage2 from '../assets/apartment/image2.webp';
 import sliderImage3 from '../assets/apartment/image3.webp';
 import 'bootstrap/dist/css/bootstrap.min.css';

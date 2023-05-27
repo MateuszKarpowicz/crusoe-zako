@@ -3,10 +3,17 @@ import React, { useEffect, useRef } from 'react';
 function RoomAdminCalendar() {
     const iframeRef = useRef(null);
 
+    const calendarStyle = {
+        color_accent: "#A1195B",
+        color_bg: "#FFFFFF",
+    };
+
+    const encodedStyle = encodeURIComponent(JSON.stringify(calendarStyle));
+
     useEffect(() => {
         const iframe = iframeRef.current;
         const raMessageReceiver = (event) => {
-            if (!event.data.sender || "ra-calendar-single-630d9af10122cdf9de865fb57b257b5e" !== event.data.sender) { return; }
+            if (!event.data.sender || "ra-calendar-single-d3c296cf3b65e045248e5f5274602de0" !== event.data.sender) { return; }
             if (event.data.height) { iframe.style.height = (event.data.height + 10) + "px"; }
         };
         window.addEventListener("message", raMessageReceiver, false);
@@ -15,7 +22,7 @@ function RoomAdminCalendar() {
             try {
                 iframe.contentWindow.postMessage({
                     location: window.location.toString(),
-                    setup: { autoHeight: true, senderName : "ra-calendar-single-630d9af10122cdf9de865fb57b257b5e" }
+                    setup: { autoHeight: true, senderName : "ra-calendar-single-d3c296cf3b65e045248e5f5274602de0" }
                 }, "*");
             } catch (e) { console.error(e); }
         };
@@ -28,8 +35,8 @@ function RoomAdminCalendar() {
 
     return (
         <div>
-            <iframe ref={iframeRef} id="ra-calendar-single-630d9af10122cdf9de865fb57b257b5e" style={{width: '100%', height:'540px', border: 'none', padding: '0'}} src="//roomadmin.pl/widget/calendar-single/index?fh=cb81a00010bac72ae34311a71a167a269d02ac71&rid=77600&disableReservationButton=1&n=6&style=%7B%22color_accent%22%3A%22%23b4813e%22%2C%22color_bg%22%3A%22%23808080%22%7D"></iframe>
-            <a href="https://roomadmin.pl">program dla obiektów noclegowych - roomadmin.pl</a>
+            <iframe ref={iframeRef} id="ra-calendar-single-d3c296cf3b65e045248e5f5274602de0" style={{width: '100%', height:'540px', border: 'none', padding: '0'}} src={`//roomadmin.pl/widget/calendar-single/index?fh=fef9697d874d71a4939e6e600c1954e36cc596b1&rid=56263&disableReservationButton=1&n=6&style=${encodedStyle}`}></iframe>
+            <a href="https://roomadmin.pl">system rezerwacji - roomadmin.pl</a>
         </div>
     );
 }

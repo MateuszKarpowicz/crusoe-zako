@@ -17,11 +17,11 @@
 
   "homePageText": {
     "weProvide": "Zapewniamy",
-    "listItem1": "Ścisłe centrum Krakowa, historyczna dzielnica!",
-    "listItem2": "Bardzo dobra komunikacja miejska w pobliżu",
-    "listItem3": "3 minuty piechotą do Rynku Głównego",
-    "listItem4": "5 minut piechotą do Wawel",
-    "listItem5": "śniadanie w cenie"
+    "listItem1": "Połączenie górlaskiego stylu z komfortowym wykończeniem",
+    "listItem2": "Lokalizacja przy malowniczej ulicy Kasprowicza",
+    "listItem3": "Szlaki turystyczne i Kasprowy Wierch w pobliżu",
+    "listItem4": "Wspaniały widok na górskie krajobrazy",
+    "listItem5": "Kominek na chłodniejsze wieczory"
   },
 
   "reviews": {
@@ -42,26 +42,23 @@
   },
 
   "invitationTxt": {
-    "description": "Jeśli planują Państwo romantyczny weekend we dwoje, dłuższy pobyt turystyczny czy wizytę biznesową w Krakowie, nasze prywatne apartamenty są dla Państwa idealną propozycją. Ich dogodne usytuowanie w samym sercu miasta, z jednej strony gwarantuje łatwy dostęp do najważniejszych zabytków, muzeów, restauracji, teatrów i innych centrów rozrywki. Z drugiej zaś strony, zapewnia spokój i dyskrecję. Zapewniamy osobisty serwis na najwyższym poziomie!"
+    "description": "Twoje wymarzone miejsce na urlop! W apartamencie w sercu Zakopanego,  przy malowniczej ulicy Kasprowicza. Oferuje wyjątkowe połączenie komfortu, góralskiego stylu i widoku na górskie krajobrazy. Doskonale usytuowany, zapewniając łatwy dostęp do lokalnych atrakcji i udogodnień. W pobliżu znajdują się liczne sklepy, restauracje i kawiarnie, a także popularne trasy turystyczne i stok narciarski Kasprowy."
   },
 
   "headerTxt" : {
-    "header": "Luksusowe apartamenty w sercu Krakowa"
+    "header": "Luksusowe apartamenty w sercu Zakopanego"
   },
 
   "apartment1": {
-    "title": "Crusoe Kraków",
-    "description": "Luksusowe apartamenty w sercu Krakowa\nNasze nowoczesne apartamenty znajdują się na drugim piętrze historycznej, nowo odrestaurowanej kamienicy w sercu Krakowa. Doskonała lokalizacja. 2-5 minut piechotą do Rynku Glównego, Wawelu, Wisły. Blisko Dworca Głównego PKP, dworca autobusowego, komunikacji miejskiej co pozwala na wygodne zwiedzanie miasta. Apartament składa się z przechodniego salonu z aneksem kuchennym, osobnej sypialni i luksusowo urządzonej łazienki z dużym prysznicem i deszczownicą. Nowoczesny, luksusowy wystrój łączy się z pięknem XIX-wiecznej cegły, którą skrywały stare tynki. Uwagę przykuje także ozdobna podłoga, która klimatem pasuje do historycznego miejsca. W cenę pobytu wliczone jest pyszne śniadanie w uroczej kawiarence Bon Jour Cava, znajdującej się w sąsiedztwie apartamentu."
-
-
-
+    "title": "Crusoe Zakopane",
+    "description": "Twoje wymarzone miejsce na urlop! W apartamencie w sercu Zakopanego,  przy malowniczej ulicy Kasprowicza. Oferuje wyjątkowe połączenie komfortu, góralskiego stylu i widoku na górskie krajobrazy. Doskonale usytuowany, zapewniając łatwy dostęp do lokalnych atrakcji i udogodnień. W pobliżu znajdują się liczne sklepy, restauracje i kawiarnie, a także popularne trasy turystyczne i stok narciarski Kasprowy. Apartament składa się z wygodnej strefy wypoczynkowej, gdzie można zrelaksować się na sofie i cieszyć się ciepłem kominka w chłodniejsze wieczory. Stół jadalniany jest idealnym miejscem do spożywania posiłków w gronie rodziny, przyjaciół lub romantycznych chwil we dwoje. Strefa sypialni, w której można znaleźć spokój i komfort. Zapewnia idealne miejsce do wypoczynku i regeneracji po dniu pełnym aktywności. Przestronna szafa, w której można przechowywać swoje rzeczy i cieszyć się uporządkowaną przestrzenią. Kuchnia została starannie zaprojektowana i wyposażona we wszystkie niezbędne urządzenia i sprzęty, abyś mógł przygotować pyszne dania. Wysokiej jakości wykończenie i eleganckie dodatki nadają wyjątkowego charakteru. Elegancko zaprojektowana łazienka jest prawdziwą oazą relaksu. Idealne miejsce do odprężenia i regeneracji po długim dniu na nartach lub wędrówce po górach. Dostęp do prywatnego tarasu, z którego można podziwiać zapierający dech w piersiach widok na góry"
 
   },
 
   "contactPage": {
     "title": "Kontakt",
     "phoneNumber": "+48 123 456 789",
-    "email": "contact@example.com",
+    "email": "info@crusoe.pl",
     "formTitle": "Napisz do nas",
     "nameLabel": "Imię i nazwisko",
     "emailLabel": "Adres e-mail",
@@ -69,7 +66,7 @@
     "submitButton": "Wyślij",
     "getDirectionsButton": "Jedź",
     "mapLabel": "Dojedź do nas",
-    "description": "ul. Piłsudskiego 11\n33-323 Kraków\nPolska"
+    "description": "ul. Mieczysława Karłowicza 12\nZakopane\nPolska"
   },
   "friends": {
     "title": "Nasi przyjaciele"
@@ -79,19 +76,27 @@
     "description":"Poznaj świat CRUSOE. Największym luksusem jest podróżować, pozostając szczęśliwym."
   },
   "togetherPage":{
-    "description" : "Nasze nowoczesne apartamenty znajdują się na drugim piętrze historycznej, nowo odrestaurowanej kamienicy w sercu Krakowa. Doskonała lokalizacja. 2-5 minut piechotą do Rynku Glównego, Wawelu, Wisły. Blisko Dworca Głównego PKP, dworca autobusowego, komunikacji miejskiej co pozwala na wygodne zwiedzanie miasta."
+    "description" : "Apartament składa się z wygodnej strefy wypoczynkowej, gdzie można zrelaksować się na sofie i cieszyć się ciepłem kominka w chłodniejsze wieczory. Stół jadalniany jest idealnym miejscem do spożywania posiłków w gronie rodziny, przyjaciół lub romantycznych chwil we dwoje. "
   },
   "apartmentCard": {
-    "title": "Crusoe Kraków",
-    "titlePS" : "Umeblowane w nowoczesnym stylu z wielką dbałością o szczegóły. W pełni wyposażone.",
-    "feature1": "Lokalizacja na drugim piętrze odrestaurowanej, XIX-wiecznej kamienicy.",
-    "feature2": "Nowoczesny, dwupokojowy apartament z przechodnim salonem z aneksem kuchennym.",
-    "feature3": "Osobna, komfortowa sypialnia.",
-    "feature4": "Luksusowo urządzona łazienka wyposażona w duży prysznic, bidet i deszczownicę.",
-    "feature5": "Zachowane, historyczne elementy, takie jak XIX-wieczna cegła i oryginalne tynki.",
-    "feature6": "Stylizowana, ozdobna podłoga dodająca charakteru.",
-    "feature7": "Pyszne śniadanie w kawiarence Bon Jour Cava, wliczone w cenę pobytu."
+    "title": "Apartament Zakopane",
+    "titlePS" : "Nowoczesny i komfortowy apartament w góralskim stylu w samym sercu Zakopanego.",
+    "feature1": "Wyjątkowe połączenie komfortu, góralskiego stylu i widoku na górskie krajobrazy.",
+    "feature2": "Łatwy dostęp do lokalnych atrakcji i udogodnień.",
+    "feature3": "Wygodna strefa wypoczynkowa z sofą i kominkiem.",
+    "feature4": "Strefa sypialni, oferująca idealne miejsce do wypoczynku i regeneracji po dniu pełnym aktywności.",
+    "feature5": "Kuchnia starannie zaprojektowana i wyposażona we wszystkie niezbędne urządzenia i sprzęty.",
+    "feature6": "Elegancko zaprojektowana łazienka, idealne miejsce do odprężenia i regeneracji.",
+    "feature7": "Prywatny taras z zapierającym dech w piersiach widokiem na góry."
+  },
+  "roomAdmin": {
+    "book" : "Zarezerwuj"
+
+  },
+  "Kontakt": "Kontakt",
+  "Media": "Media",
+  "Apartamenty": "Apartamenty"
   }
-}
+
 
 

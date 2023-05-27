@@ -17,8 +17,7 @@ const LeafletMap = ({ handleGetDirectionsClick }) => {
       
       L.Marker.prototype.options.icon = customMarkerIcon;
 
-    const position = [52.22977, 21.01178];
-
+    const position = [49.2980, 19.9482];
     const { t } = useTranslation();
 
 
