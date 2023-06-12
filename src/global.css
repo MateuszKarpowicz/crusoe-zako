@@ -267,7 +267,7 @@ body {
 
 @media screen and (max-width: 850px){
     .footer-wrapper {
-    height:500px;
+    height:350px;
     }
 }
 
@@ -290,7 +290,7 @@ body {
     background-color: #D29035;
     display: flex;
     flex-direction: row;
-    padding-right: 250px;
+    padding-right: 150px;
     justify-content: space-between;
     align-items: center;
     color: #FFFFFF;
@@ -312,7 +312,7 @@ body {
 .footer-friends-cava-img,
 .footer-friends-anioly-img,
 .footer-friends-nautica-img {
-    max-width: 100%;
+    max-width: 80px;
     height: auto;
 }
 
@@ -320,7 +320,7 @@ body {
     .footer-friends-cava-img,
 .footer-friends-anioly-img,
 .footer-friends-nautica-img {
-    max-width: 70px;
+    max-width: 50px;
 }
 }
 
@@ -500,16 +500,12 @@ body {
     margin-right: 5px;
 }
 
-.footer-apartments-krakow span {
-    margin-right: 25px;
-}
-
 .footer-apartments-primosten:hover {
     transform: scale(1.1);
     filter: brightness(0);
 }
 
-.footer-apartments-krakow:hover {
+.footer-apartments-zakopane:hover {
     transform: scale(1.1);
     filter: brightness(0);
 }
@@ -615,6 +611,7 @@ body {
         justify-content: center;
         transform: rotate(-49deg);
         margin: 0;
+        padding: 0;
         z-index: 9999;
     }
 
