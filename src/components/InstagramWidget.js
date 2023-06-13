@@ -2,7 +2,7 @@ import React from 'react';
 import "../scss/Together.scss"
 
 const InstagramWidget = () => {
-    const instagramUrl = 'https://www.instagram.com/p/BrsMB3cnTYw/embed';
+    const instagramUrl = 'https://www.instagram.com/p/CtPkbziIyCp/embed';
 
     return (
         <div className="instagram-widget">

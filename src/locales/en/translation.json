@@ -84,15 +84,15 @@
     "description" : "The apartment consists of a comfortable lounge area where you can relax on the sofa and enjoy the warmth of the fireplace on cooler evenings. The dining table is the perfect place for meals with family, friends, or romantic moments for two."
   },
   "apartmentCard": {
-    "title": "Crusoe Krakow",
-    "titlePS" : "Furnished in modern style with great attention to detail. Fully equipped.",
-    "feature1": "Location on the second floor of a restored, 19th-century tenement house.",
-    "feature2": "Modern, two-room apartment with a walk-through living room with a kitchenette.",
-    "feature3": "Separate, comfortable bedroom.",
-    "feature4": "Luxuriously furnished bathroom equipped with a large shower, bidet, and rain shower.",
-    "feature5": "Preserved, historical elements, such as 19th-century brick and original plaster.",
-    "feature6": "Styled, ornamental floor adding character.",
-    "feature7": "Delicious breakfast at the Bon Jour Cava cafe, included in the price of stay."
+    "title": "Zakopane Apartment",
+    "titlePS" : "A modern and comfortable apartment in the highlander style in the heart of Zakopane.",
+    "feature1": "A unique combination of comfort, highlander style, and views of the mountain landscapes.",
+    "feature2": "Easy access to local attractions and amenities.",
+    "feature3": "A comfortable relaxation area with a sofa and fireplace.",
+    "feature4": "A bedroom area, offering the perfect place to rest and recharge after a day full of activities.",
+    "feature5": "A carefully designed kitchen equipped with all the necessary appliances and tools.",
+    "feature6": "An elegantly designed bathroom, the perfect place for relaxation and regeneration.",
+    "feature7": "A private terrace with breathtaking views of the mountains."
   },
   "roomAdmin": {
     "book" : "Book a Room"

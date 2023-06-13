@@ -1,4 +1,5 @@
 .content-container{
+
   width:100%;
   height:100%;
 
@@ -14,13 +15,22 @@
   background: linear-gradient(0.25turn, #B3803E, #0D0B0B);
 }
 .header-container{
+  margin-top: 80px;
   margin-bottom: 10px;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+@media screen and (max-width: 600px) {
+    .header-container{
+      display: flex;
+      padding-left: 20px;
+
+    }
+}
 .apartment-card-block{
+
   width: 100%;
   display: flex;
   justify-content: space-evenly;

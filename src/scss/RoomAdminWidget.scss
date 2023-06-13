@@ -21,7 +21,9 @@ background-color: #202428;
 }
 
 .booking-widget-container {
-  margin-top: 75px;
+  margin-top: 50px;
+    margin-bottom: -25px;
+  z-index: 1;
 }
 
 @media (max-width: 767px) {

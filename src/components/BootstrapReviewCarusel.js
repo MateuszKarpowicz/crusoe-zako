@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Carousel, Row, Col } from 'react-bootstrap';
-import InstagramWidget from './InstagramWidget';
 import '../scss/BootstrapReviewCarusel.scss';
 
 import image1 from '../assets/apartment/image1.webp';
